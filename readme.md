@@ -7,12 +7,12 @@ A machine learning project that predicts automobile prices using vehicle specifi
 
 The main objectives of this project are:
 
--To explore the car dataset and understand its structure
--To clean missing and incorrect values
--To study how features such as engine size, horsepower, curb weight and fuel efficiency relate to price
--To build regression models that predict car price
--To build a classification model that groups cars into Low, Medium and High price categories
--To interpret the results from a business and customer point of view
+- To explore the car dataset and understand its structure
+- To clean missing and incorrect values
+- To study how features such as engine size, horsepower, curb weight and fuel efficiency relate to price
+- To build regression models that predict car price
+- To build a classification model that groups cars into Low, Medium and High price categories
+- To interpret the results from a business and customer point of view
 
 ## Tasks Performed
 - Data Cleaning
